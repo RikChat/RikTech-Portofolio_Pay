@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Membangun e-Kasir dengan React + Firebase",
+    "summary": "Proyek e-kasir \u2014 sedang dalam pengembangan. Coming soon.",
+    "date": "2025-11-01"
+  },
+  {
+    "id": 2,
+    "title": "PWA & Offline untuk POS",
+    "summary": "Menjadikan aplikasi POS offline-ready dengan service worker.",
+    "date": "2025-10-20"
+  }
+]
